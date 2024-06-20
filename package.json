@@ -9,7 +9,9 @@
   "author": "Md. Wali Ullah Milton",
   "license": "ISC",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.5"
+    
+  },
+  "dependencies": {
+    
   }
 }
